@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tag Fetcher</string>
+    <string name="title_activity_main2">Fetched Tags</string>
+</resources>
